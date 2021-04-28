@@ -1,0 +1,129 @@
+.top-container{
+    background-color: #5f939a;
+    position: relative;
+    padding-top: 100px;
+
+}
+h2{
+    
+}
+h1{
+    font-size: 5.625rem;
+    font-family: "Sacramento", cursive;
+    margin: 50px auto 0 auto;
+    color: #903749;
+}
+.about{
+    font-size: 1.5rem;
+    font-family: "Paprika",cursive;
+    color: #364547;
+    font-weight: normal;
+    line-height: 2;
+}
+body{
+    margin: 0px;
+    text-align: center;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.profile{
+    padding: 10%;
+}
+.design{
+    width: 25%;
+    float: left;
+    padding-right: 30px;
+
+
+
+}
+h3{
+    color:#11999E;
+}
+a{
+    color:#e84545;
+}
+.python{
+    width: 25%;
+    float: right;
+    padding-left: 30px;
+
+}
+.skill-row{
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.con {
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    height: 22px;
+    line-height: 27px;
+    color: #2FDACA;
+    font-family: Arial;
+    width: 126px;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 12px;
+    background-color: #A9C7C4;
+    -webkit-box-shadow: 1px 1px 19px 0 #6FBCB5;
+    -moz-box-shadow: 1px 1px 19px 0 #6FBCB5;
+    box-shadow: 1px 1px 19px 0 #6FBCB5;
+    text-shadow: 1px 1px 20px #020202;
+    border: inset #00E2FF 4px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-bottom: 2%;
+ }
+ 
+ .con:hover {
+    background: #4E7D82;
+    border: solid #00E2FF 5px;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    text-decoration: none;
+ }
+ .contact-me{
+     background-color: #aee1e1;
+     color: #03506f;
+     padding: 10%;
+     
+ }
+ .contact-me h3{
+    color: #03506f;
+ }
+ .bottom-container{
+     background-color: #aee1e1;
+     margin-bottom: 0;
+     padding: 20px;
+ }
+ .profile h2{
+     font-size: 2rem;
+     font-family: "Montserrat";
+ }
+ .profile p{
+     font-family: "Merriweather";
+ }
+ .skills h2{
+     font-family: "Montserrat";
+ }
+ .skills h3{
+    font-family: "Montserrat";
+}
+.skills p{
+    font-family: "Merriweather";
+}
